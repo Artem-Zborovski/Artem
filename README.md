@@ -36,11 +36,14 @@
   ---
   
   ### :fire: My Stats :  
-  
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Artem-Zborovski" alt="GitHub Streak" /></a>  
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Zborovski&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
   <dev>
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Artem-Zborovski&theme=shadow-red&hide_border=true&border_radius=3.5&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=280"/>
-  </dev>
-</div>
+  </dev>   
+  <br></br>
+  </div>
+
+  ---
+  Bro 🔥: [Nikita](https://github.com/n1kita-kos)
+
